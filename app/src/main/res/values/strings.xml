@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutonomiaVeicularBO</string>
+    <string name="calculo_da_autonomia_veicular">Calculo da Autonomia Veicular</string>
+    <string name="nome_do_carro">Nome do Carro</string>
+    <string name="digite_o_nome_do_carro">Digite o nome do carro</string>
+    <string name="km_percorrido">Km Percorrido</string>
+    <string name="quantos_km_voc_percorreu">Quantos Km você percorreu</string>
+    <string name="quanto_combust_vel_foi_gasto">Quanto combustível foi gasto</string>
+    <string name="quantidade_de_combust_vel">Quantidade de Combustível</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="msg_erro_nome">Digite um nome válido</string>
+    <string name="msg_erro_km">Campo Km inválido</string>
+    <string name="msg_erro_combustivel">Campo combustível inválido</string>
+</resources>
